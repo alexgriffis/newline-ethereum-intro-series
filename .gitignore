@@ -1,1 +1,5 @@
 datadir
+hello-counter/coverage
+hello-counter/dist
+hello-counter/node_modules
+npm-debug.log*
